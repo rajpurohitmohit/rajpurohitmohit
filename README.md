@@ -11,17 +11,13 @@
 - 📫 How to reach me: [Email](mailto:rajpurohitmohit954@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rajpurohitmohit/)
 - ⚡ Fun fact: I have a strong passion for both creative arts and coding — bridging technology and creativity is what excites me the most.
 
-### 🛠 Tech Stack
+### 💻 Tech Skills
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 <!---
 rajpurohitmohit/rajpurohitmohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
