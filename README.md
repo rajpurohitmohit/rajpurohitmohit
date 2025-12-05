@@ -1,6 +1,6 @@
 # Hi, I’m Mohit Rajpurohit
 
-<h3>Engineering Student | Software Developer | Curious Builder</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans+Code&pause=500&color=F79D57&center=true&vCenter=true&width=435&lines=print('Hello+World!');while+not+done%3A+learn();progress+%3D+learning+%2B+building)](https://git.io/typing-svg)
 
 ## About Me
 - I’m an engineering student who loves turning ideas into real, working solutions.  
