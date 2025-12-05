@@ -1,6 +1,6 @@
 # Hi, I’m Mohit Rajpurohit
 
-<h3>Engineering Student | Data Scientist | Curious Builder</h3>
+<h3>Engineering Student | Software Developer | Curious Builder</h3>
 
 ## About Me
 - I’m an engineering student who loves turning ideas into real, working solutions.  
@@ -11,7 +11,7 @@
 
 
 ## Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,sklearn,tensorflow,js,ts,mongodb,express,react,nodejs,git" />
 </p>
 
@@ -26,5 +26,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
          alt="Email Badge"/>
   </a>
-
 </p>
