@@ -17,13 +17,23 @@
 
 ## Connect With Me
 <p align="center">
+  <a href="mailto:rajpurohitmohit954@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Email Badge"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/rajpurohitmohit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn Badge"/>
   </a>
 
-  <a href="mailto:rajpurohitmohit954@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Email Badge"/>
+  <a href="https://x.com/mohitraj04" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" 
+         alt="Twitter(X) Badge"/>
+  </a>
+
+  <a href="https://leetcode.com/rajpurohitmohit" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+         alt="LeetCode Badge"/>
   </a>
 </p>
